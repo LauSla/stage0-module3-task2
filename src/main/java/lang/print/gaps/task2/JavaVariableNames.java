@@ -12,3 +12,4 @@ public class JavaVariableNames {
         int goodName = 1000000;
     }
 }
+

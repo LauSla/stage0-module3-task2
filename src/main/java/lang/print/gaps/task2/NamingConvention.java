@@ -13,3 +13,4 @@ public class NamingConvention {
         int variableEight = 8;
     }
 }
+
